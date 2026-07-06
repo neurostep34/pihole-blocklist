@@ -2,3 +2,5 @@
 ||googlevideo.com^
 ||googleusercontent.com^
 ||ytimg.com^
+||ggpht.com^
+||youtube.com^
